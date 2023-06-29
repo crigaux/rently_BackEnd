@@ -52,3 +52,5 @@ test/**/*.js.map
 # Project
 /public
 /dist
+# Local Netlify folder
+.netlify
