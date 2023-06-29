@@ -53,3 +53,5 @@ test/**/*.js.map
 /public
 /dist
 /src/uploads
+# Local Netlify folder
+.netlify
